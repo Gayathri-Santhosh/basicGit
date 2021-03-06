@@ -12,7 +12,11 @@ git status
 ```
 ## To add changes to your repository
 ```
-git add . ``` or ```git add <filename>
+git add . 
+``` 
+or 
+```
+git add <filename>
 ```
 ## To save changes to your repository
 ```
